@@ -1,0 +1,15 @@
+# Object files
+*.o
+
+# Compiled binary
+compile
+
+# Generated C source from Flex
+scanner.c
+
+# Generated C header and source from Bison
+parser.c
+tokens.h
+
+# Bison output file
+parser.output
